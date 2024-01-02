@@ -1,5 +1,7 @@
 # Scaled Penalties
 
+[https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/](https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/)
+
 Scales the penalties recieved for not saving your friends.
 
 - Penalty recieved is 1/(total players)
