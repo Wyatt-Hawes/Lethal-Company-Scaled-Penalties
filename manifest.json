@@ -1,0 +1,9 @@
+{
+    "name": "ScaledPenalties",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Scales the penalties recieved for not retrieving bodies by a factor of 1/(total players in lobby). So in a 10 player lobby, you would only lose 10% per player not recovered.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
