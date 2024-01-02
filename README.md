@@ -6,3 +6,4 @@ Scales the penalties received for not saving your friends. Intended for use with
 
 - Penalty received is 1/(total players)
 - Minor penalty when successfully bringing dead players back to ship removed entirely (If you rescue 1 out of 2 bodies, you will only receive 1 instance of a penalty)
+- Hosted on ThunderStore, DLL also available for manual installation
