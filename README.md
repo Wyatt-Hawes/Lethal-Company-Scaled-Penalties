@@ -2,8 +2,13 @@
 
 [https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/](https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/)
 
-Scales the penalties received for not saving your friends. Intended for use with large multiplayer lobbies (>5 players)
+Scales the penalties recieved for not saving your friends.
 
-- Penalty received is 1/(total players)
-- Minor penalty when successfully bringing dead players back to ship removed entirely (If you rescue 1 out of 2 bodies, you will only receive 1 instance of a penalty)
-- Hosted on ThunderStore, DLL also available for manual installation
+- Penalty recieved is 1/(total players)
+- Penalty recieved when bringing dead player back to ship removed entirely (If you rescue 1 out of 2 bodies, you will only recieve 1 instance of a penalty)
+
+before
+![alt text](./before.PNG)
+
+after (2 player lobby)
+![alt text](./after.PNG)
