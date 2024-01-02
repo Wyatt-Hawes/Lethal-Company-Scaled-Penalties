@@ -1,6 +1,6 @@
 # Scaled Penalties
 
-[https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/](https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/)
+Available for download online at [https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/](https://thunderstore.io/c/lethal-company/p/MigisFring/ScaledPenalties/)
 
 Scales the penalties recieved for not saving your friends.
 
